@@ -2,10 +2,12 @@
 
 Türkçe ve İngilizce, mobil uyumlu ve A4 baskıya hazırlanmış HTML özgeçmişler. Framework, derleme veya dış kaynak bağlantısı gerektirmez; fontlar HTML içine gömülüdür.
 
+Tasarım, kullanıcının paylaştığı CV’deki mavi sol sütun ve beyaz içerik alanından esinlenir. İletişim, teknik yetkinlikler ve dil bilgisi sol sütunda; isim, profil, deneyim, projeler ve eğitim sağda yer alır. Lacivert başlıklar ve kırmızı vurgular her iki dilde de kullanılır. Mobil ekranlarda sütunlar alt alta sıralanır.
+
 ## Sürümler
 
 - `index.html`: Türkçe CV; referanssız ve referanslı PDF seçenekleri.
-- `cv-en.html`: Avrupa iş başvurularına yönelik, tamamen İngilizce, tek sütunlu CV. Standart bölüm başlıkları, ters kronolojik tarih düzeni, uluslararası telefon numarası ve CEFR dil seviyesi içerir. Doğum tarihi, medeni durum, askerlik ve referans kişilerin iletişim bilgileri bu sürümde yer almaz. Bu sürüm resmî Europass şablonu değildir.
+- `cv-en.html`: Avrupa iş başvurularına yönelik, tamamen İngilizce CV. Standart bölüm başlıkları, ters kronolojik tarih düzeni, uluslararası telefon numarası ve CEFR dil seviyesi içerir. Doğum tarihi, medeni durum, askerlik ve referans kişilerin iletişim bilgileri bu sürümde yer almaz. Bu sürüm resmî Europass şablonu değildir.
 
 Sayfalardaki TR / EN bağlantıları ile dil değiştirilebilir. İngilizce PDF: `downloads/Mustafa-Mert-Demir-CV-European-EN.pdf`.
 
@@ -31,4 +33,4 @@ Betik `/usr/bin/chromium` kullanır. Başka bir sistemde bu yolu kendi Chromium 
 
 ## İçerik
 
-İçerik, kullanıcının sağladığı özgün CV’den düzenlenmiştir. Proje başarısı, metrik, çalışma süresi veya yeni bir yetkinlik eklenmemiştir. Türkçe sürümde iletişim ve kişisel bilgiler korunmuş, referanslar isteğe bağlı ikinci sayfaya ayrılmıştır. İngilizce sürümde eğitim devam ediyor olarak belirtilir; B2 dil seviyesi için sınav veya sertifika iddiası eklenmez. Herhangi bir yayınlama işlemi yapılmamıştır.
+İçerik, kullanıcının sağladığı özgün CV’den düzenlenmiştir. Proje başarısı, metrik, çalışma süresi veya yeni bir yetkinlik eklenmemiştir. Türkçe sürümde iletişim ve kişisel bilgiler korunmuştur. Referansların adları ve görevleri sol sütundadır; ayrıntılı iletişim bilgileri isteğe bağlı ikinci sayfaya eklenir. İngilizce sürümde eğitim devam ediyor olarak belirtilir; B2 dil seviyesi için sınav veya sertifika iddiası eklenmez. Web sitesi için barındırma veya dağıtım ayarı yapılmamıştır.
